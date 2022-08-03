@@ -1,3 +1,4 @@
+#before executing this read the Readme.md file
 from bs4 import BeautifulSoup
 import requests
 headers = {
